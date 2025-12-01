@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "NOMA - Brain Power (USAO Remix)",
+  "base_artist": "USAO",
+  "createdAt": "2025-12-01T00:14:35.004432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Noma Ni",
+      "artist": "Octopizzo",
+      "has_synced": true,
+      "path": "select/01_Noma_Ni_Octopizzo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Noma Ni",
+      "artist": "Octopizzo",
+      "has_synced": true,
+      "path": "select/02_Noma_Ni_Octopizzo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Noma Ni [Explicit]",
+      "artist": "Octopizzo",
+      "has_synced": true,
+      "path": "select/03_Noma_Ni_[Explicit]_Octopizzo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pinta Nomá'",
+      "artist": "Jaze",
+      "has_synced": false,
+      "path": "select/04_Pinta_Nomá'_Jaze.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ESTOY A UN VASO NOMA'",
+      "artist": "Vius",
+      "has_synced": true,
+      "path": "select/05_ESTOY_A_UN_VASO_NOMA'_Vius.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ESTOY A UN VASO NOMA'",
+      "artist": "VIUS",
+      "has_synced": true,
+      "path": "select/06_ESTOY_A_UN_VASO_NOMA'_VIUS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Noma Ungahamba",
+      "artist": "The Soil",
+      "has_synced": true,
+      "path": "select/07_Noma_Ungahamba_The_Soil.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ho Bokwe [Live] (feat. Noma Ntantiso)",
+      "artist": "Lebo Sekgobela",
+      "has_synced": false,
+      "path": "select/08_Ho_Bokwe_[Live]_(feat._Noma_Ntantiso)_Lebo_Sekgobela.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SINA NOMA",
+      "artist": "Charisma",
+      "has_synced": true,
+      "path": "select/09_SINA_NOMA_Charisma.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Noma (feat. Marioo)",
+      "artist": "Young Lunya",
+      "has_synced": false,
+      "path": "select/10_Noma_(feat._Marioo)_Young_Lunya.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Noma",
+      "artist": "Lupe De Lupe",
+      "has_synced": false,
+      "path": "select/11_Noma_Lupe_De_Lupe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Suzie Noma",
+      "artist": "Muthoni Drummer Queen",
+      "has_synced": true,
+      "path": "select/12_Suzie_Noma_Muthoni_Drummer_Queen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ESTOY A UN VASO NOMA'",
+      "artist": "Vius",
+      "has_synced": true,
+      "path": "select/13_ESTOY_A_UN_VASO_NOMA'_Vius.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Young Lunya - Noma (Official Audio) ft. Marioo",
+      "artist": "Young Lunya",
+      "has_synced": false,
+      "path": "select/14_Young_Lunya_-_Noma_(Official_Audio)_ft._Marioo_Young_Lunya.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SINA NOMA",
+      "artist": "Charisma",
+      "has_synced": true,
+      "path": "select/15_SINA_NOMA_Charisma.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jaze - Pinta Nomá’ (Video Oficial)",
+      "artist": "Jaze",
+      "has_synced": true,
+      "path": "select/16_Jaze_-_Pinta_Nomá’_(Video_Oficial)_Jaze.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Billy mandy (feat. noma) [WAZGOGG Remix]",
+      "artist": "WAZGOGG",
+      "has_synced": false,
+      "path": "select/17_Billy_mandy_(feat._noma)_[WAZGOGG_Remix]_WAZGOGG.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Noma",
+      "artist": "Kaylow",
+      "has_synced": true,
+      "path": "select/18_Noma_Kaylow.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lilium (From Elfen Lied) [Karaoke Version] - Originally Performed By Kumiko Noma",
+      "artist": "I Love You! Project",
+      "has_synced": false,
+      "path": "select/19_Lilium_(From_Elfen_Lied)_[Karaoke_Version]_-_Originally_Performed_By_Kumiko_Noma_I_Love_You!_Project.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Un Tema Asi Noma",
+      "artist": "Kusa 草",
+      "has_synced": true,
+      "path": "select/20_Un_Tema_Asi_Noma_Kusa_草.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "NOMA - Brain Power (USAO Remix)",
+      "artist": "USAO",
+      "has_synced": false,
+      "path": "select/pl_NOMA_-_Brain_Power_(USAO_Remix)_USAO.txt"
+    }
+  ]
+}
